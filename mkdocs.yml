@@ -1,7 +1,7 @@
-site_name: ${{ values.name }}
-site_description: ${{ values.description | default("A new service") }}
+site_name: "Some Name"
+site_description: "A new service"
 
-repo_url: ${{ values.repoUrl | default("https://github.com/josefernandezceiba/bs-test-001") }}
+repo_url: "https://github.com/josefernandezceiba/bs-test-001"
 edit_uri: edit/main/docs
 
 plugins: 
