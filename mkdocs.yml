@@ -1,7 +1,6 @@
 site_name: ${{ values.name }}
 site_description: ${{ values.description | default("A new service") }}
 
-site_url: ${{ values.siteUrl | default("https://tour-of-heroes.es") }}
 repo_url: ${{ values.repoUrl | default("https://github.com/josefernandezceiba/bs-test-001") }}
 edit_uri: edit/main/docs
 
