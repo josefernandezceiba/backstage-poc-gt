@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\poc\\bloques\\momo\\MoMo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|d:\\poc\\bloques\\momo\\momo\\common\\adapters\\tenantresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|solutionrelative:common\\adapters\\tenantresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|d:\\poc\\bloques\\momo\\momo\\common\\ports\\itenantresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|solutionrelative:common\\ports\\itenantresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|d:\\poc\\bloques\\momo\\momo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|d:\\poc\\bloques\\momo\\momo\\modules\\notifications\\features\\emailwelcome\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|solutionrelative:modules\\notifications\\features\\emailwelcome\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|d:\\poc\\bloques\\momo\\momo\\modules\\onboarding\\infrastructure\\adapters\\usersqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|solutionrelative:modules\\onboarding\\infrastructure\\adapters\\usersqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|d:\\poc\\bloques\\momo\\momo\\momo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|solutionrelative:momo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|d:\\poc\\bloques\\momo\\momo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|d:\\poc\\bloques\\momo\\momo\\modules\\onboarding\\features\\registeruser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|solutionrelative:modules\\onboarding\\features\\registeruser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|d:\\poc\\bloques\\momo\\momo\\common\\helpers\\mediator\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|solutionrelative:common\\helpers\\mediator\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|d:\\poc\\bloques\\momo\\momo\\common\\helpers\\mediator\\irequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96080B3-F4E6-429D-B129-FB22099D497E}|MoMo.csproj|solutionrelative:common\\helpers\\mediator\\irequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 912,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TenantResolver.cs",
+              "DocumentMoniker": "D:\\poc\\bloques\\momo\\MoMo\\Common\\Adapters\\TenantResolver.cs",
+              "RelativeDocumentMoniker": "Common\\Adapters\\TenantResolver.cs",
+              "ToolTip": "D:\\poc\\bloques\\momo\\MoMo\\Common\\Adapters\\TenantResolver.cs",
+              "RelativeToolTip": "Common\\Adapters\\TenantResolver.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:31:10.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITenantResolver.cs",
+              "DocumentMoniker": "D:\\poc\\bloques\\momo\\MoMo\\Common\\Ports\\ITenantResolver.cs",
+              "RelativeDocumentMoniker": "Common\\Ports\\ITenantResolver.cs",
+              "ToolTip": "D:\\poc\\bloques\\momo\\MoMo\\Common\\Ports\\ITenantResolver.cs",
+              "RelativeToolTip": "Common\\Ports\\ITenantResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:30:48.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserSqlRepository.cs",
+              "DocumentMoniker": "D:\\poc\\bloques\\momo\\MoMo\\Modules\\Onboarding\\Infrastructure\\Adapters\\UserSqlRepository.cs",
+              "RelativeDocumentMoniker": "Modules\\Onboarding\\Infrastructure\\Adapters\\UserSqlRepository.cs",
+              "ToolTip": "D:\\poc\\bloques\\momo\\MoMo\\Modules\\Onboarding\\Infrastructure\\Adapters\\UserSqlRepository.cs",
+              "RelativeToolTip": "Modules\\Onboarding\\Infrastructure\\Adapters\\UserSqlRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:00:29.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "D:\\poc\\bloques\\momo\\MoMo\\Modules\\Notifications\\Features\\EmailWelcome\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "Modules\\Notifications\\Features\\EmailWelcome\\EmailNotifier.cs",
+              "ToolTip": "D:\\poc\\bloques\\momo\\MoMo\\Modules\\Notifications\\Features\\EmailWelcome\\EmailNotifier.cs",
+              "RelativeToolTip": "Modules\\Notifications\\Features\\EmailWelcome\\EmailNotifier.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:51:21.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mediator.cs",
+              "DocumentMoniker": "D:\\poc\\bloques\\momo\\MoMo\\Common\\Helpers\\Mediator\\Mediator.cs",
+              "RelativeDocumentMoniker": "Common\\Helpers\\Mediator\\Mediator.cs",
+              "ToolTip": "D:\\poc\\bloques\\momo\\MoMo\\Common\\Helpers\\Mediator\\Mediator.cs",
+              "RelativeToolTip": "Common\\Helpers\\Mediator\\Mediator.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:36:32.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRequest.cs",
+              "DocumentMoniker": "D:\\poc\\bloques\\momo\\MoMo\\Common\\Helpers\\Mediator\\IRequest.cs",
+              "RelativeDocumentMoniker": "Common\\Helpers\\Mediator\\IRequest.cs",
+              "ToolTip": "D:\\poc\\bloques\\momo\\MoMo\\Common\\Helpers\\Mediator\\IRequest.cs",
+              "RelativeToolTip": "Common\\Helpers\\Mediator\\IRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:20:59.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\poc\\bloques\\momo\\MoMo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\poc\\bloques\\momo\\MoMo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T13:47:41.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\poc\\bloques\\momo\\MoMo\\Modules\\Onboarding\\Features\\RegisterUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Modules\\Onboarding\\Features\\RegisterUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "D:\\poc\\bloques\\momo\\MoMo\\Modules\\Onboarding\\Features\\RegisterUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Modules\\Onboarding\\Features\\RegisterUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:14:35.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoMo",
+              "DocumentMoniker": "D:\\poc\\bloques\\momo\\MoMo\\MoMo.csproj",
+              "RelativeDocumentMoniker": "MoMo.csproj",
+              "ToolTip": "D:\\poc\\bloques\\momo\\MoMo\\MoMo.csproj",
+              "RelativeToolTip": "MoMo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T14:10:09.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\poc\\bloques\\momo\\MoMo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\poc\\bloques\\momo\\MoMo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:09:52.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 820,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

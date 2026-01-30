@@ -1,0 +1,288 @@
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/appsettings.Development.json
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/appsettings.json
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/MoMo Demo
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/MoMo Demo.deps.json
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/MoMo Demo.runtimeconfig.json
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/MoMo Demo.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/MoMo Demo.pdb
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Azure.Core.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Azure.Identity.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Humanizer.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/MassTransit.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/MassTransit.Abstractions.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/MassTransit.RabbitMqTransport.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/MediatR.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/MediatR.Contracts.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Mono.TextTemplating.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/RabbitMQ.Client.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.CodeDom.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Composition.Convention.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Composition.Hosting.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Composition.Runtime.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Drawing.Common.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Memory.Data.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Runtime.Caching.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Security.Permissions.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/System.Windows.Extensions.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/MoMo Demo.csproj.AssemblyReference.cache
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/MoMo Demo.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/MoMo Demo.AssemblyInfoInputs.cache
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/MoMo Demo.AssemblyInfo.cs
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/MoMo Demo.csproj.CoreCompileInputs.cache
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/MoMo Demo.MvcApplicationPartsAssemblyInfo.cs
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/MoMo Demo.MvcApplicationPartsAssemblyInfo.cache
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/staticwebassets.build.json
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/staticwebassets.development.json
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/staticwebassets/msbuild.MoMo Demo.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/staticwebassets/msbuild.build.MoMo Demo.props
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MoMo Demo.props
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MoMo Demo.props
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/staticwebassets.pack.json
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/scopedcss/bundle/MoMo Demo.styles.css
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/MoMo Demo.csproj.Up2Date
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/MoMo Demo.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/refint/MoMo Demo.dll
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/MoMo Demo.pdb
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/MoMo Demo.genruntimeconfig.cache
+/mnt/d/poc/devfest talk/MoMo Demo/MoMo Demo/obj/Debug/net8.0/ref/MoMo Demo.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\MoMo Demo.csproj.AssemblyReference.cache
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\MoMo Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\MoMo Demo.AssemblyInfoInputs.cache
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\MoMo Demo.AssemblyInfo.cs
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\MoMo Demo.csproj.CoreCompileInputs.cache
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\MoMo Demo.MvcApplicationPartsAssemblyInfo.cs
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\MoMo Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\appsettings.Development.json
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\appsettings.json
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\MoMo Demo.exe
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\MoMo Demo.deps.json
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\MoMo Demo.runtimeconfig.json
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\MoMo Demo.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\MoMo Demo.pdb
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Azure.Core.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Azure.Identity.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Humanizer.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\MediatR.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.CodeDom.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Memory.Data.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\staticwebassets.build.json
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\staticwebassets.development.json
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\scopedcss\bundle\MoMo Demo.styles.css
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\MoMo Demo.csproj.Up2Date
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\MoMo Demo.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\refint\MoMo Demo.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\MoMo Demo.pdb
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\MoMo Demo.genruntimeconfig.cache
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\ref\MoMo Demo.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Serilog.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\bin\Debug\net8.0\MoMo Demo.staticwebassets.endpoints.json
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\poc\devfest talk\MoMo Demo\MoMo Demo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
