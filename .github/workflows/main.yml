@@ -10,6 +10,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: print a simple message
-        run: echo "hello world" 
-        shell: bash
+      - name: Checkout repository        
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Restore dependencies
+        run: dotnet restore ./Momo.csproj
+
+      - name: Build
+        run: dotnet build ./Momo.csproj --configuration Release --no-restore
+
+      - name: Build Docker image
+        run: docker build -t momo:${{ github.sha }} -f ./Dockerfile ./
