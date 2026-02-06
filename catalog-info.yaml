@@ -5,7 +5,7 @@ metadata:
   description: "A new service"
   annotations:  
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: josefernandezceiba/${{ values.repoUrl }}
+    github.com/project-slug: josefernandezceiba/${{ values.repoName }}
 spec:
   type: service
   owner: user:guest
