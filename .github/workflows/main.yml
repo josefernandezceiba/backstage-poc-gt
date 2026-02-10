@@ -25,4 +25,4 @@ jobs:
         run: dotnet build ./Momo.csproj --configuration Release --no-restore
 
       - name: Build Docker image
-        run: docker build -t momo:${{{{ github.run_id }}}} -f ./Dockerfile ./
+        run: docker build -t momo:$GITHUB_RUN_ID -f ./Dockerfile ./
